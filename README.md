@@ -13,6 +13,5 @@
   <h3 align ="left"> Descripción </h3>
   Proyecto en desarrollo para implementar un juego, el cual consta en que el usuario ingrese los nombres de sus amigos y el juego como resultado le mostrara aquel el cual es su amigo secreto.
 
-<h4 align ="left">Funiconalidades del proyecto</h4>
 ## :hammer:Funcionalidades del proyecto
-- `Funcionalidad 1`: agregar amigo: Es una función que permite 
+- ` Funcionalidad 1 `: agregar amigo: Es una función que permite -
