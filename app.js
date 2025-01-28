@@ -20,3 +20,11 @@ function agregarAmigo(){
     }
 }
 
+function mostrarAmigos(amigos){
+    //obtener lista
+    let lista = document.getElementById('listaAmigos');
+
+    lista.innerHTML="";
+
+    
+}
