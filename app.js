@@ -3,3 +3,6 @@
 let listaAmigos = [];
 let listaHTML = [];
 
+function agregarAmigo(){
+    
+}
